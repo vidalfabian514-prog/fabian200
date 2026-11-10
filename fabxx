@@ -1348,3 +1348,6 @@ AimPartAltBtn.Position = UDim2.new(0.68, 0, 0, 720)
 
 if Settings.AlternateAim then
 	Settings.AimPar... (Tiempo restante: 81 KB)
+
+if Settings.AlternateAim then
+	Settings.AimPar... (Tiempo restante: 81 KB)
